@@ -1,0 +1,34 @@
+.heading{
+    font-size: 40px;
+    width:100%;
+    height: 55px;;
+    font-weight: bold;
+    color:yellow;
+    padding:0px;
+    background-color: purple;
+    
+    }
+    body{
+        background-size: cover;
+        background-position: center;
+        text-align:center;
+    
+    }
+#status, #number_objects
+{
+font-size: 22px;
+width:150px;
+height:40px;
+color:white ;
+}
+#back_button{
+    width:150px;
+    height:40px;
+    font-size:20px;
+}
+
+canvas{
+    box-shadow:8px 8px 8px chartreuse;
+    border-radius:7px;
+    margin-top:40px;
+}
